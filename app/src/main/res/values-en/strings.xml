@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlynxFilter</string>
+    <string name="title_activity_settings">FlynxFilter Settings</string>
+    <string name="settings_saved">Settings saved!</string>
+    <string name="browser_cannot_be_opened">Cannot open web browser!</string>
+    <string name="web_browser">Web browser</string>
+    <string name="browser_explanation">Please choose the web browser that will be used to open links from host http://www.google.com</string>
+</resources>

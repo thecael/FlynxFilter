@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlynxFilter</string>
+    <string name="title_activity_settings">FlynxFilter Einstellungen</string>
+    <string name="settings_saved">Einstellungen gespeichert!</string>
+    <string name="browser_cannot_be_opened">Web-Browser nicht gefunden!</string>
+    <string name="web_browser">Web-Browser</string>
+    <string name="browser_explanation">Bitte wählen Sie den Web-Browser mit dem alle Links vom Host http://www.google.com geöffnet werden sollen.</string>
+</resources>
